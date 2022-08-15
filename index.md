@@ -1,5 +1,5 @@
 
-## Self introduction
+## Wangjianbo
 I am a graduate student at the School of Computer Science, [UESTC](https://gr.uestc.edu.cn/). My research direction is theoretical computer. I like to play ball, walk, climb mountains, etc.
 
 ## About the blog-demos repository
