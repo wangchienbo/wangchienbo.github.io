@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 ## Self introduction
 I am a graduate student at the School of Computer Science, [UESTC](https://gr.uestc.edu.cn/). My research direction is theoretical computer. I like to play ball, walk, climb mountains, etc.
